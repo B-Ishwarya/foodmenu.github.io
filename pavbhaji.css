@@ -1,0 +1,31 @@
+.bgimg{
+    background-image: url("https://img.freepik.com/free-photo/high-angle-chicken-meal_23-2148825122.jpg?w=740&t=st=1668762205~exp=1668762805~hmac=d80d0a97833c0b50c03a0ae9656e2c958d741288a951af05d5617635be1df838");
+    background-size: cover;
+    height: 100vh;
+}
+.headfirst{
+    color:white;
+    font-family: cursive;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 30px;
+}
+.bgcardcarousel{
+    background-color:darkgreen;
+    border-end-end-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
+.cardcon{
+    padding: 20px;
+}
+.headsecond{
+    color: white;
+    font-family: cursive;
+    font-size: 30px;
+    font-weight: bold;
+}
+.paraline{
+    color: white;
+    font-family: cursive;
+    font-size: 20px;
+}

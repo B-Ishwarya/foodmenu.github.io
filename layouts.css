@@ -1,0 +1,48 @@
+.bgimg{
+    background-image: url("https://img.freepik.com/free-photo/high-angle-chicken-meal_23-2148825122.jpg?w=740&t=st=1668762205~exp=1668762805~hmac=d80d0a97833c0b50c03a0ae9656e2c958d741288a951af05d5617635be1df838");
+    height: 200vh;
+    background-size: cover;
+}
+.foodhead{
+    text-align: center;
+    font-family:cursive;
+    font-size: 50px;
+    font-weight: bold;
+    padding: 25px;
+}
+.layoutcard{
+    background-color: darkgreen;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+.recipe{
+    color: white;
+    font-family:cursive;
+    font-size: 30px;
+    font-weight: bold;
+}
+.recipepara{
+    color: white;
+    font-family: cursive;
+    font-size: 20px;
+}
+.recipeimg{
+    width: 150px;
+    height: 150px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
